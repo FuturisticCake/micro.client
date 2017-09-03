@@ -17,8 +17,7 @@ var scanNext = () => {
 		else {
 			try {
 				var mcClient = mc.createBot({
-					"username": "jenniliner@yahoo.com",
-					"password": "turtles",
+					"username": "offlineBotAccount",
 					"host": host,
 					"port": scanPort
 				});
